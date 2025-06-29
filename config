@@ -1,0 +1,9 @@
+# font settings
+font-family = "JetBrains Mono"
+font-family-bold = "JetBrains Mono Bold"
+font-family-italic = = "JetBrains Mono Italic"
+
+# theme and appearance
+theme = catppuccin-mocha
+background-opacity = .99
+
