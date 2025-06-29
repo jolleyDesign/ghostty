@@ -6,4 +6,18 @@ font-family-italic = = "JetBrains Mono Italic"
 # theme and appearance
 theme = catppuccin-mocha
 background-opacity = .99
+window-padding-x = 8
+window-padding-y = 8
+window-padding-balance = true
 
+
+# behavior
+window-inherit-working-directory = true
+window-inherit-font-size = true
+window-title-font-family = "JetBrains Mono"
+window-subtitle = working-directory
+clipboard-read = allow
+clipboard-write = allow
+clipboard-trim-trailing-spaces = true
+clipboard-paste-protection = false
+quick-terminal-position = center
