@@ -1,11 +1,11 @@
 # font settings
 font-family = "Cascadia Code"
 font-family-bold = "Cascadia Code Bold"
-font-family-italic = = "Cascadia Code Italic"
+font-family-italic = "Cascadia Code Italic"
 
 # theme and appearance
 theme = catppuccin-mocha
-background-opacity = .99
+background-opacity = .95
 window-padding-x = 8
 window-padding-y = 8
 window-padding-balance = true
