@@ -4,7 +4,7 @@ font-family-bold = "JetBrains Mono Bold"
 font-family-italic = "JetBrains Mono Italic"
 
 # theme and appearance
-theme = catppuccin-mocha
+theme = gotham-default
 background-opacity = .95
 window-padding-x = 8
 window-padding-y = 8
